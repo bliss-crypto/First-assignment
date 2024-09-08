@@ -4,6 +4,7 @@
     --background-color:#1E1E1E ;
     --primary-font: #FFFFFF;
 }
+
   *{
     margin: 0;
     padding: 0;
@@ -18,3 +19,4 @@
     margin-right: 185px;
     margin-left: 185px;
  }
+ 
